@@ -1,4 +1,4 @@
-## Olá! Eu sou o Felipe
+## I'm  Felipe Duarte
   <div>
   <a href="https://github.com/felipeduarte26">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipeduarte26&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
