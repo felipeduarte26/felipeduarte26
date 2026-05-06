@@ -27,7 +27,6 @@ Sou **Tech Lead Mobile** e **Arquiteto de Software**, com foco em construir apli
 - 🏗️ Aplico **Clean Architecture**, **SOLID** e **Clean Code** no dia a dia
 - 📱 Trabalho com arquitetura **SuperApp**: módulos Flutter integrados a um host nativo via bridge (AAR / XCFramework)
 - 🖥️ Background sólido em **Delphi / Object Pascal** — desktop (VCL) e mobile (FMX) — e **Lazarus / Free Pascal**
-- 🌱 Sempre estudando: Kotlin nativo, on-device ML e padrões de arquitetura mobile
 
 ---
 
