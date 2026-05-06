@@ -76,26 +76,3 @@ Sou **Tech Lead Mobile** e **Arquiteto de Software**, com foco em construir apli
 ### 📌 Em destaque
 
 - 🤖 **[danger-bot](https://github.com/felipeduarte26/danger-bot)** — Bot de code review automatizado em TypeScript/Danger.js, com plugins para Flutter, performance e segurança
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipeduarte26&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeduarte26&layout=compact&theme=tokyonight&hide=html,css" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=felipeduarte26&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=felipeduarte26&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-<p align="center">
-  <i>"Clean code always looks like it was written by someone who cares." — Robert C. Martin</i>
-</p>
