@@ -36,6 +36,7 @@ Sou **Tech Lead Mobile** e **Arquiteto de Software**, com foco em construir apli
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
 </p>
 🌐 Backend & Linguagens
+
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -44,6 +45,7 @@ Sou **Tech Lead Mobile** e **Arquiteto de Software**, com foco em construir apli
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 </p>
 🚦 DevOps & Ferramentas
+
 <p>
   <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white" />
   <img src="https://img.shields.io/badge/CircleCI-343434?style=flat-square&logo=circleci&logoColor=white" />
