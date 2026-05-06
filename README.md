@@ -26,6 +26,7 @@ Sou **Tech Lead Mobile** e **Arquiteto de Software**, com foco em construir apli
 
 - 🏗️ Defensor de **Clean Architecture**, **SOLID** e **Clean Code** no dia a dia
 - 📱 Trabalho com arquitetura **SuperApp**: módulos Flutter integrados a um host nativo via bridge (AAR / XCFramework)
+- 🖥️ Background sólido em **Delphi / Object Pascal** — desktop (VCL) e mobile (FMX) — e **Lazarus / Free Pascal**
 - 🌱 Sempre estudando: Kotlin nativo, on-device ML e padrões de arquitetura mobile
 
 ---
@@ -39,6 +40,14 @@ Sou **Tech Lead Mobile** e **Arquiteto de Software**, com foco em construir apli
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
+</p>
+
+<h4>🖥️ Desktop & Cross-Platform</h4>
+
+<p>
+  <img src="https://img.shields.io/badge/Delphi-EE1F35?style=flat-square&logo=delphi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lazarus-FAA918?style=flat-square&logo=lazarus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Object_Pascal-3F3F3F?style=flat-square&logo=pascal&logoColor=white" />
 </p>
 
 <h4>🌐 Backend & Linguagens</h4>
